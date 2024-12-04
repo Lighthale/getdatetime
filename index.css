@@ -1,0 +1,23 @@
+#wrapper {
+    border: 1px solid grey;
+    padding: 20px;
+    text-align: center
+}
+
+#wrapper button {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#clock {
+    font-size: 60px;
+    width: 945px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+#logs {
+    text-align: center;
+    padding: 20px;
+}
